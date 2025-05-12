@@ -40,8 +40,8 @@
         <mxCell id="990" value="5" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="874" y="1251" width="74" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="991" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;&lt;span style=&quot;line-height: 120%&quot;&gt;Reduce it to purely the essential &lt;/span&gt;&lt;br&gt;&lt;span&gt;information.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949" y="459" width="280" height="40" as="geometry" />
+        <mxCell id="991" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;转存服务页浮层开发&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
+          <mxGeometry x="949" y="459" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992" value="&lt;b&gt;项目版本迭代&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;fontColor=#dddddd;align=left;" parent="1" vertex="1">
           <mxGeometry x="888" y="79" width="700" height="78" as="geometry" />
