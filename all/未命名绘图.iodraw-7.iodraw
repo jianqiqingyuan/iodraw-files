@@ -52,7 +52,7 @@
         <mxCell id="60da8b9f42644d3a-25" value="青少面模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="876" y="425" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-26" value="传输列表改造&lt;div style=&quot;font-size: 18px;&quot;&gt;功能屏蔽&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-26" value="传输列表改造&lt;div style=&quot;font-size: 18px;&quot;&gt;功能屏蔽&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#FFFFFF;fontStyle=1;spacing=20;" parent="1" vertex="1">
           <mxGeometry x="876" y="725" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-27" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -73,7 +73,7 @@
         <mxCell id="60da8b9f42644d3a-32" value="群记录进最近" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1156" y="425" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-33" value="首页、二级页UI及功能&lt;div&gt;转存流程改造&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-33" value="首页、二级页UI及功能&lt;div style=&quot;font-size: 18px;&quot;&gt;转存流程改造&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1156" y="725" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-34" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
