@@ -76,8 +76,8 @@
         <mxCell id="1002" value="传输列表的改造" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="919" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1003" value="Each element should have&lt;br&gt;the same styling and the same&lt;br&gt;placement.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1185" width="260" height="60" as="geometry" />
+        <mxCell id="1003" value="转存流程改造" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="1185" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1004" value="Each section or group of&lt;br&gt;content should use the same&lt;br&gt;spacing to the next, and should&lt;br&gt;be strictly aligned." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="1442" width="265" height="73" as="geometry" />
