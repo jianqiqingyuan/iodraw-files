@@ -91,7 +91,7 @@
         <mxCell id="60da8b9f42644d3a-38" value="PROMOTERS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BF639A;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1379" y="545" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="k1pdAOfwJP1hRlBprTa2-19" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FE9900;strokeColor=#FFFFFF;labelBackgroundColor=#FF3399;" vertex="1" parent="1">
+        <mxCell id="k1pdAOfwJP1hRlBprTa2-19" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FFCC99;strokeColor=#FFFFFF;labelBackgroundColor=#FF3399;" vertex="1" parent="1">
           <mxGeometry x="1436" y="405" width="280" height="430" as="geometry" />
         </mxCell>
         <mxCell id="k1pdAOfwJP1hRlBprTa2-20" value="相册优化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
