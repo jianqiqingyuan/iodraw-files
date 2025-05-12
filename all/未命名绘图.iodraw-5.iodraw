@@ -49,8 +49,8 @@
         <mxCell id="993" value="&lt;span&gt;for infographics&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=35;fontFamily=Verdana;fontColor=#888888;" parent="1" vertex="1">
           <mxGeometry x="892" y="163" width="636" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="994" value="&lt;div style=&quot;line-height: 150%&quot;&gt;IT&#39;S ALL ABOUT&amp;nbsp;&lt;br&gt;&lt;span&gt;VISION-TRACKING&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1275" y="604" width="240" height="70" as="geometry" />
+        <mxCell id="994" value="&lt;div style=&quot;line-height: 150%&quot;&gt;短剧投屏&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1275" y="604" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="995" value="&lt;div&gt;GIVE ME SPACE&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="948.9999999999999" y="875" width="210" height="30" as="geometry" />
