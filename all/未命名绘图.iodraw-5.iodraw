@@ -61,8 +61,8 @@
         <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;相册sdk支持闭眼修复&lt;/div&gt;&lt;div style=&quot;line-height: 150%&quot;&gt;&amp;amp;&amp;amp;一刻相册目录支持&lt;/div&gt;&lt;div style=&quot;line-height: 150%&quot;&gt;删除&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="948.9999999999999" y="1324" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="998" value="Scribble down your content." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="430" width="236" height="18" as="geometry" />
+        <mxCell id="998" value="首页金刚位调整" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="430" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="999" value="&lt;div&gt;Guide the viewer&#39;s eye through&amp;nbsp;&lt;br&gt;&lt;span&gt;the content.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1275" y="687" width="267" height="36" as="geometry" />
