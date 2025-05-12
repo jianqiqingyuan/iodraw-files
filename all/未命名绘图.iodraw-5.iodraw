@@ -332,6 +332,9 @@
         <mxCell id="xgssBYu8g3Eb4uEYzzK7-1059" value="首页及二级页Ui及功能" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1278" y="1147" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xgssBYu8g3Eb4uEYzzK7-1060" value="闭眼修复检测/修复接口" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="949" y="1480" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
