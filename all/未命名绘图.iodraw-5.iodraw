@@ -329,6 +329,9 @@
             <mxPoint x="1201" y="1206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xgssBYu8g3Eb4uEYzzK7-1059" value="转存流程改造" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1278" y="1147" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
