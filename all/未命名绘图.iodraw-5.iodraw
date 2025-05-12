@@ -79,8 +79,8 @@
         <mxCell id="1003" value="转存流程改造" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1278" y="1195" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1004" value="&lt;br&gt;be strictly aligned." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="1442" width="170" height="50" as="geometry" />
+        <mxCell id="1004" value="闭眼修复Ui及气泡引导" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="1442" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1007" value="" style="endArrow=oval;html=1;strokeColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=1;rounded=1;endSize=6;startArrow=oval;startFill=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
