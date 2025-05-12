@@ -47,7 +47,7 @@
           <mxGeometry x="888" y="79" width="700" height="78" as="geometry" />
         </mxCell>
         <mxCell id="993" value="&lt;span&gt;for infographics&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=35;fontFamily=Verdana;fontColor=#888888;" parent="1" vertex="1">
-          <mxGeometry x="890.5" y="163" width="636" height="96" as="geometry" />
+          <mxGeometry x="883.5" y="163" width="636" height="96" as="geometry" />
         </mxCell>
         <mxCell id="994" value="&lt;div style=&quot;line-height: 150%&quot;&gt;短剧投屏&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="604" width="120" height="40" as="geometry" />
