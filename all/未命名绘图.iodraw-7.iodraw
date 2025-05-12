@@ -94,7 +94,7 @@
         <mxCell id="k1pdAOfwJP1hRlBprTa2-19" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FE9900;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1436" y="405" width="280" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="k1pdAOfwJP1hRlBprTa2-20" value="群记录进最近" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="k1pdAOfwJP1hRlBprTa2-20" value="相册优化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1436" y="425" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1pdAOfwJP1hRlBprTa2-21" value="首页、二级页UI及功能&lt;div&gt;转存流程改造&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -113,7 +113,7 @@
           <mxGeometry x="1659" y="545" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="k1pdAOfwJP1hRlBprTa2-26" value="PROMOTERS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BF639A;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="950" width="115" height="115" as="geometry" />
+          <mxGeometry x="1379" y="545.5" width="115" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
