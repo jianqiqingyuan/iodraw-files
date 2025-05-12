@@ -43,7 +43,7 @@
         <mxCell id="991" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;&lt;span style=&quot;line-height: 120%&quot;&gt;Reduce it to purely the essential &lt;/span&gt;&lt;br&gt;&lt;span&gt;information.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
           <mxGeometry x="949" y="459" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="992" value="&lt;b&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;DESIGN RULES&lt;/font&gt;&lt;/b&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;fontColor=#dddddd;align=left;" parent="1" vertex="1">
+        <mxCell id="992" value="&lt;b&gt;项目版本迭代&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;fontColor=#dddddd;align=left;" parent="1" vertex="1">
           <mxGeometry x="888" y="79" width="700" height="78" as="geometry" />
         </mxCell>
         <mxCell id="993" value="&lt;span&gt;for infographics&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=35;fontFamily=Verdana;fontColor=#888888;" parent="1" vertex="1">
@@ -81,9 +81,6 @@
         </mxCell>
         <mxCell id="1004" value="Each section or group of&lt;br&gt;content should use the same&lt;br&gt;spacing to the next, and should&lt;br&gt;be strictly aligned." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="1442" width="265" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="1006" value="Created with draw.io" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1174" y="1663.0000000000005" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1007" value="" style="endArrow=oval;html=1;strokeColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=1;rounded=1;endSize=6;startArrow=oval;startFill=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
