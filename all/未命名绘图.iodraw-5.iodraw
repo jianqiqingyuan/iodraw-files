@@ -64,8 +64,8 @@
         <mxCell id="998" value="首页金刚位调整" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="430" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="999" value="&lt;div&gt;Guide the viewer&#39;s eye through&amp;nbsp;&lt;br&gt;&lt;span&gt;the content.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="687" width="267" height="36" as="geometry" />
+        <mxCell id="999" value="&lt;div&gt;短剧更多面板改造&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="687" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1000" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;Each part of the graphic should&lt;br&gt;be well-structured.&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
           <mxGeometry x="1275" y="735" width="262" height="38" as="geometry" />
