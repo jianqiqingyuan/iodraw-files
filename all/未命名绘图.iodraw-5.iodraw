@@ -8,7 +8,7 @@
           <mxGeometry x="310" y="60" width="2120" height="1640" as="geometry" />
         </mxCell>
         <mxCell id="980" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#282828;" parent="1" vertex="1">
-          <mxGeometry x="896" y="271" width="350" height="350" as="geometry" />
+          <mxGeometry x="513" y="310" width="350" height="350" as="geometry" />
         </mxCell>
         <mxCell id="981" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#282828;" parent="1" vertex="1">
           <mxGeometry x="896" y="764" width="350" height="350" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry x="1223" y="1010" width="350" height="350" as="geometry" />
         </mxCell>
         <mxCell id="984" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#282828;" parent="1" vertex="1">
-          <mxGeometry x="1207" y="510" width="350" height="350" as="geometry" />
+          <mxGeometry x="1223" y="518" width="350" height="350" as="geometry" />
         </mxCell>
         <mxCell id="985" value="新首页" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="948.9999999999999" y="386" width="100" height="40" as="geometry" />
+          <mxGeometry x="565.9999999999999" y="425" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="986" value="1&amp;nbsp;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="873" y="309" width="110" height="120" as="geometry" />
+          <mxGeometry x="490" y="348" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="987" value="2" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1194" y="531" width="74" height="120" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="874" y="1251" width="74" height="120" as="geometry" />
         </mxCell>
         <mxCell id="991" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;转存服务页浮层开发&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949" y="459" width="170" height="30" as="geometry" />
+          <mxGeometry x="566" y="498" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="992" value="&lt;b&gt;项目版本迭代&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;fontColor=#dddddd;align=left;" parent="1" vertex="1">
           <mxGeometry x="888" y="79" width="700" height="78" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="948.9999999999999" y="1324" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="998" value="首页金刚位调整" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="430" width="140" height="30" as="geometry" />
+          <mxGeometry x="566" y="469" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="999" value="&lt;div&gt;短剧更多面板改造&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1275" y="687" width="150" height="50" as="geometry" />
