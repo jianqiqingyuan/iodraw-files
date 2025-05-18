@@ -119,7 +119,10 @@
           <mxGeometry x="530" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="630" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxKtP1-gigUJKbyO26-2-58" value="UI层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="393" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
