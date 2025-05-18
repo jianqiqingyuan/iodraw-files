@@ -28,9 +28,6 @@
         <mxCell id="nxKtP1-gigUJKbyO26-2-14" value="底Bar" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="680" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nxKtP1-gigUJKbyO26-2-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="790" y="510" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="270" y="350" width="480" height="235" as="geometry" />
         </mxCell>
@@ -38,7 +35,7 @@
           <mxGeometry x="280" y="375" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="270" y="270" width="480" height="80" as="geometry" />
+          <mxGeometry x="270" y="260" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-24" value="UI层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="383" width="60" height="30" as="geometry" />
