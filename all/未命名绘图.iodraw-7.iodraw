@@ -124,7 +124,7 @@
         <mxCell id="nxKtP1-gigUJKbyO26-2-58" value="UI层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nxKtP1-gigUJKbyO26-2-59" value="转存目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="nxKtP1-gigUJKbyO26-2-59" value="异常状态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="640" y="515" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
