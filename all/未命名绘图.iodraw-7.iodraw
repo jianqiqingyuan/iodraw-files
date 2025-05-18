@@ -62,7 +62,7 @@
           <mxGeometry x="330" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-38" value="bian" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="410" y="365" width="80" height="40" as="geometry" />
+          <mxGeometry x="410" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-40" value="目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="80" height="40" as="geometry" />
@@ -117,6 +117,9 @@
             <mxPoint x="480" y="382.5" as="sourcePoint" />
             <mxPoint x="480" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nxKtP1-gigUJKbyO26-2-68" value="目录选择" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
