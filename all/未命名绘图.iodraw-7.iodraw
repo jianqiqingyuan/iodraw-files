@@ -25,8 +25,8 @@
         <mxCell id="nxKtP1-gigUJKbyO26-2-9" value="列表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="490" y="285" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nxKtP1-gigUJKbyO26-2-10" value="列表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="500" y="295" width="60" height="30" as="geometry" />
+        <mxCell id="nxKtP1-gigUJKbyO26-2-10" value="底Bar" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="600" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
