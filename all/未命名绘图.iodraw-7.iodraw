@@ -23,7 +23,7 @@
           <mxGeometry x="590" y="275" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-14" value="底Bar" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="680" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="495" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="670" height="245" as="geometry" />
@@ -98,22 +98,22 @@
           <mxGeometry x="330" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-52" value="bian" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="485" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-53" value="转存态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="423" y="515" width="60" height="30" as="geometry" />
+          <mxGeometry x="433" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="520" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="530" y="485" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-56" value="转存目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="530" y="515" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="630" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="485" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-59" value="异常状态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="640" y="515" width="60" height="30" as="geometry" />
+          <mxGeometry x="650" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
