@@ -106,11 +106,11 @@
         <mxCell id="nxKtP1-gigUJKbyO26-2-50" value="策略层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="515" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nxKtP1-gigUJKbyO26-2-51" value="编辑态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="505" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-52" value="bian" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="420" y="375" width="80" height="40" as="geometry" />
+          <mxGeometry x="410" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxKtP1-gigUJKbyO26-2-53" value="编辑态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
