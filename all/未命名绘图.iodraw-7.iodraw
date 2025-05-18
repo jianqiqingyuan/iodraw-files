@@ -68,7 +68,19 @@
           <mxGeometry x="870" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxKtP1-gigUJKbyO26-2-31" value="UI层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="393" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxKtP1-gigUJKbyO26-2-32" value="li" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nxKtP1-gigUJKbyO26-2-33" value="TitleBar" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="640" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxKtP1-gigUJKbyO26-2-34" value="列表" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="750" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nxKtP1-gigUJKbyO26-2-35" value="底Bar" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="860" y="195" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
