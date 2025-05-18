@@ -115,7 +115,7 @@
         <mxCell id="nxKtP1-gigUJKbyO26-2-59" value="异常状态" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="720" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nxKtP1-gigUJKbyO26-2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nxKtP1-gigUJKbyO26-2-38" target="nxKtP1-gigUJKbyO26-2-38">
+        <mxCell id="nxKtP1-gigUJKbyO26-2-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nxKtP1-gigUJKbyO26-2-39" target="nxKtP1-gigUJKbyO26-2-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
