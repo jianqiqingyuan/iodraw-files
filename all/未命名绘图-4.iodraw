@@ -112,11 +112,8 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-52" value="UI层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89" y="78" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="174" y="67" width="107" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184" y="77" width="107" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
