@@ -23,7 +23,7 @@
           <mxGeometry x="187" y="409" width="112" height="42" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-7" value="复制链接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="189" y="466" width="112" height="42" as="geometry" />
+          <mxGeometry x="187" y="462" width="112" height="42" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-8" value="WXSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="438" y="293" width="166" height="47" as="geometry" />
@@ -67,11 +67,11 @@
             <mxPoint x="453" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-30" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-31" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-29">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296" y="438" as="sourcePoint" />
+            <mxPoint x="456" y="438" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
