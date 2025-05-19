@@ -127,8 +127,13 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-58" value="BaseSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="647" y="370.5" width="167" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-61" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="604" y="308" width="38" height="181" as="geometry" />
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-62" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" target="pTN-kolrAH0wHJY1SmcE-63" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="652" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-63" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="325" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
