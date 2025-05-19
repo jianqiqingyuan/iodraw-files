@@ -14,7 +14,7 @@
           <mxGeometry x="93" y="358" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-4" value="微信好友" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="191" y="289" width="112" height="42" as="geometry" />
+          <mxGeometry x="189" y="293" width="112" height="42" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-5" value="好友分享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="189" y="349" width="112" height="42" as="geometry" />
