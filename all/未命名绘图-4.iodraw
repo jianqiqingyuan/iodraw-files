@@ -43,9 +43,6 @@
             <mxPoint x="447" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-18" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-19" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-17">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
