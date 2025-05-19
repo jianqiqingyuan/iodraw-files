@@ -8,7 +8,7 @@
           <mxGeometry x="37" y="31" width="852" height="492" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="57" y="266" width="758" height="243" as="geometry" />
+          <mxGeometry x="58" y="271" width="758" height="243" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-3" value="功能层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="73" y="389" width="60" height="30" as="geometry" />
@@ -126,14 +126,6 @@
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-58" value="BaseSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="647" y="370.5" width="167" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-62" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;fontSize=12;curved=1;" edge="1" target="pTN-kolrAH0wHJY1SmcE-63" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="652" y="330" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-63" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
-          <mxGeometry x="612" y="330" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
