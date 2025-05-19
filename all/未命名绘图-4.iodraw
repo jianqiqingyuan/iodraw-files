@@ -13,7 +13,7 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-3" value="功能层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93" y="358" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-4" value="微信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="191" y="289" width="112" height="42" as="geometry" />
         </mxCell>
       </root>
