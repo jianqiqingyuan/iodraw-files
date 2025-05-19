@@ -106,7 +106,7 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-50" value="menuItem组装" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="342" y="124" width="103" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="58" y="61" width="720" height="65" as="geometry" />
         </mxCell>
       </root>
