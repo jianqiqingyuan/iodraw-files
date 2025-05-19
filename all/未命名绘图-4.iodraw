@@ -31,10 +31,10 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-9" value="FriendSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="440" y="352" width="131" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-10" value="FriendSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-10" value="ShareLinkSeletionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="443" y="453" width="131" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-11" value="FriendSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-11" value="....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="440" y="405" width="131" height="42" as="geometry" />
         </mxCell>
       </root>
