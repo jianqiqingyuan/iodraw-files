@@ -125,10 +125,13 @@
           <mxGeometry x="577" y="65" width="107" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-58" value="BaseSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="647" y="370.5" width="167" height="44" as="geometry" />
+          <mxGeometry x="640" y="370.5" width="167" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTN-kolrAH0wHJY1SmcE-64" target="pTN-kolrAH0wHJY1SmcE-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-64" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="615" y="316" width="21" height="157" as="geometry" />
+          <mxGeometry x="604" y="317" width="21" height="157" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
