@@ -8,7 +8,7 @@
           <mxGeometry x="37" y="31" width="881" height="492" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="58" y="271" width="847" height="192" as="geometry" />
+          <mxGeometry x="58" y="271" width="847" height="235" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-3" value="功能层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93" y="358" width="60" height="30" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="189" y="349" width="112" height="42" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-6" value="好友分享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="199" y="359" width="112" height="42" as="geometry" />
+          <mxGeometry x="191" y="414" width="112" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
