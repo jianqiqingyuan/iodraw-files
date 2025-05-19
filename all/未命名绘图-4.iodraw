@@ -55,11 +55,11 @@
             <mxPoint x="450" y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-26" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-27" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-25">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="372.5" as="sourcePoint" />
+            <mxPoint x="454" y="372.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
