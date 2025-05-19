@@ -97,7 +97,7 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-43" value="策略层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="82" y="181" width="60" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-45" value="排序策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="181" y="171.25" width="110" height="46.5" as="geometry" />
         </mxCell>
       </root>
