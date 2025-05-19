@@ -8,15 +8,10 @@
           <mxGeometry x="37" y="31" width="881" height="492" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="59" y="273" width="847" height="235" as="geometry" />
+          <mxGeometry x="58" y="271" width="847" height="235" as="geometry" />
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-3" value="功能层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93" y="358" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTN-kolrAH0wHJY1SmcE-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="399" y="310" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-4" value="微信好友" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="191" y="289" width="112" height="42" as="geometry" />
@@ -41,6 +36,21 @@
         </mxCell>
         <mxCell id="pTN-kolrAH0wHJY1SmcE-11" value="....." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="439" y="405" width="165" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="287" y="313" as="sourcePoint" />
+            <mxPoint x="447" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-18" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-19" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-17">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-20" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pTN-kolrAH0wHJY1SmcE-17">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
