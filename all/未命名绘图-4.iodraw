@@ -112,6 +112,9 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-52" value="UI层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89" y="78" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
