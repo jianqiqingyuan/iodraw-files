@@ -25,7 +25,7 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-7" value="复制链接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="189" y="466" width="112" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="pTN-kolrAH0wHJY1SmcE-8" value="微信好友" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-8" value="WXSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="443" y="293" width="112" height="42" as="geometry" />
         </mxCell>
       </root>
