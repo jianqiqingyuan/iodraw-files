@@ -127,6 +127,9 @@
         <mxCell id="pTN-kolrAH0wHJY1SmcE-58" value="BaseSelectionFunction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="647" y="370.5" width="167" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="pTN-kolrAH0wHJY1SmcE-64" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="10" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
