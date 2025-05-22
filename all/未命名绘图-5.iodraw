@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PdkjSCtvQcYJLmKa283Q-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="1110" height="560" as="geometry" />
+          <mxGeometry x="20" y="20" width="1110" height="330" as="geometry" />
         </mxCell>
         <mxCell id="PdkjSCtvQcYJLmKa283Q-2" value="更进一步：下沉基础功能，拒绝冗余" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="340" height="20" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="650" y="90" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PdkjSCtvQcYJLmKa283Q-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;一、rubik 承接&lt;/font&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 倾向于小功能点，影响编译速度&lt;br&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;二、基础模块&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;倾向于整体功能，扩展性较好&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="130" width="230" height="90" as="geometry" />
+          <mxGeometry x="700" y="130" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
