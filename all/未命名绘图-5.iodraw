@@ -10,8 +10,8 @@
         <mxCell id="PdkjSCtvQcYJLmKa283Q-2" value="更进一步：下沉基础功能，拒绝冗余" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PdkjSCtvQcYJLmKa283Q-4" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="PdkjSCtvQcYJLmKa283Q-4" value="模块独立实现，冗余初现" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
